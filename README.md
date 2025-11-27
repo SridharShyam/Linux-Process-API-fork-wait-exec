@@ -1,6 +1,5 @@
-# Linux-Process-API-fork-wait-exec-
-# Ex02-OS-Linux-Process API - fork(), wait(), exec()
-Operating systems Lab exercise
+# Exp: 2 - Linux Process API-fork(), wait(), exec()
+
 #### Name: SHYAM S
 #### Reg.No: 212223240156
 
